@@ -1,2 +1,2 @@
-# readme
-A readme file for my students
+# README
+## Here you can write about a great project idea 💡
